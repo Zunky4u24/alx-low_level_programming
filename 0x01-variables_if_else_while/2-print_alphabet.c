@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stadio.h>
 /**
  * main - Entry point
  * description: 'print alphabet lowercase'
@@ -6,12 +6,5 @@
  */
 int main(void)
 {
-	int n = 97;
-
-	while (n <= 122)
-	{
-		putchar(n);
-		n++;
-	}
-	putchar('\n');
+	while
 }
