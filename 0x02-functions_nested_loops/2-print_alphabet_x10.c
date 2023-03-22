@@ -2,6 +2,7 @@
 
 /**
  * main - print_alphabet and make it 10 times
+ * Descriptin: print alphabet ten times
  * Return: void
  */
 
